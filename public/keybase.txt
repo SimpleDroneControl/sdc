@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/shiryaev
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://shiryaeff.ru
+  * I am shiryaev (https://keybase.io/shiryaev) on keybase.
+  * I have a public key ASBRykGZlb5HmZ7D4Bm6HLJG7stOJjXzFFxgCMnk2OfMego
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012035dbcb1c3dcaf9e6a1c3700c1db2f8f74c79cf821d846b2150d65a5e072a534d0a",
+      "host": "keybase.io",
+      "kid": "012051ca419995be47999ec3e019ba1cb246eecb4e2635f3145c6008c9e4d8e7cc7a0a",
+      "uid": "367dfcb6c585ea1515be0e29d2054819",
+      "username": "shiryaev"
+    },
+    "merkle_root": {
+      "ctime": 1659719770,
+      "hash": "c1fce47bbb70227c2306f8f26d68d2e906e7b1273eebbc24e04cd509be960b6115262537c2cbdb3994bd3b425f6ffa399a203f820f8a724cb90e80c1ac35c492",
+      "hash_meta": "9f2d6ba6c07d8bdc85fc07015f7a897ad905656753500243dd6d50510f07561d",
+      "seqno": 22974252
+    },
+    "service": {
+      "entropy": "5PA/8XamycI3eWAIhzMw6vlO",
+      "hostname": "shiryaeff.ru",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1659719789,
+  "expire_in": 504576000,
+  "prev": "6cedb0d23f082e98d306e139bce5bbe60051f237eef028382622e4821ffc6ea3",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgUcpBmZW+R5mew+AZuhyyRu7LTiY18xRcYAjJ5NjnzHoKp3BheWxvYWTESpcCGsQgbO2w0j8ILpjTBuE5vOW75gBR8jfu8Cg4JiLkgh/8bqPEIALcQQ1pOEUE/2fv1jZ8yHWnr8PUwRec8H9AUSd5KANZAgHCo3NpZ8RAzVhh0xWirx2a5VoS8GjPney/93dKmGf2D6SmJ4N2y8asXiI2VdHf+FrgtaML7Nqgvalc4fYyLwKR8acnPwK0BahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAmr8cbvy+mddpqmLAwy1MekPMPAGaVNXs+PzTCmC2iNo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shiryaev
+
+==================================================================
